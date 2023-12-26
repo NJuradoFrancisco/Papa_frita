@@ -1,2 +1,1 @@
-# Papa_frita
-Es un repositorio de papas fritas
+Este proyecto es una prueba de como crear un repositorio y clonarlo
